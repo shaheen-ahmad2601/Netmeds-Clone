@@ -70,7 +70,7 @@ To run, follow these steps:
 - Clone my repository `https://github.com/shaheen-ahmad2601/netmeds-unit-2-updated.git`
 - Open that code in your VS code `Project Files/Netmeds_home_page.html`
 - Open the `index.html` on Live server
-- Then you can Navigate through other pages from Home page like `product_page.html`, `adidas_productDescription.html` etc
+- Then you can Navigate through other pages from Home page like `index.html`, `product.html` etc
 
 ## Built with 
 
