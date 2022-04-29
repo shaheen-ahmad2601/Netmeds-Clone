@@ -44,7 +44,7 @@ Netmeds.com, India Ki Pharmacy, is brought to you by the Dadha & Company – one
 
 ## Adidas Clone
 
-### [Deployment Link](https://m-sehrawat.github.io/Adidas-Website-Clone/Project%20Files/adidas_home_page.html)
+### [Deployment Link](https://zippy-kitsune-2c37d4.netlify.app/)
 
 ### Home Page
 
