@@ -42,13 +42,13 @@ Netmeds.com, India Ki Pharmacy, is brought to you by the Dadha & Company – one
 
 
 
-## Adidas Clone
+## Netmeds Clone
 
 ### [Deployment Link](https://zippy-kitsune-2c37d4.netlify.app/)
 
 ### Home Page
 
-![](https://github.com/shaheen-ahmad2601/netmeds-unit-2-updated/blob/master/netmeds1.png)
+![](https://github.com/shaheen-ahmad2601/netmeds-unit-2-updated/blob/master/home-page-netmeds.png)
 
 ### Product Page
 ![](https://github.com/shaheen-ahmad2601/netmeds-unit-2-updated/blob/master/netmeds2.png)
